@@ -2820,7 +2820,6 @@ function rn(t, e, n) {
         return "\uD55C\uAD6D\uAC15\uD654\uD504\uB77C\uC2A4\uD2F1 3.5t";
       case "2":
         return "\uD55C\uAD6D\uAC15\uD654\uD504\uB77C\uC2A4\uD2F1 6t";
-
       case "3":
         return "\uD55C\uAD6D\uAC15\uD654\uD504\uB77C\uC2A4\uD2F1 7t";
       case "4":
